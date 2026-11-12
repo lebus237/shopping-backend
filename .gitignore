@@ -1,0 +1,9 @@
+node_modules
+build
+tmp
+.env
+.env.local
+storage
+.DS_Store
+.idea
+.vscode
